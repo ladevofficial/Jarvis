@@ -1,0 +1,7 @@
+OpenAI response for Prompt: using AI write me a code in Python which shuts down the PC 
+ **************** 
+
+
+
+import os
+os.system("shutdown /s /t 1")

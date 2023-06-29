@@ -1,0 +1,7 @@
+OpenAI response for Prompt: using AI write me a loop in Python that runs forever 
+ **************** 
+
+
+
+while True:
+  print("This loop will run forever!")

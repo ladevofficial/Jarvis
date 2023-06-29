@@ -1,0 +1,20 @@
+OpenAI response for Prompt: using AI write me a resignation letter 
+ **************** 
+
+
+
+Dear [Employer Name],
+
+It is with a heavy heart that I write to inform you of my intention to resign from my position as [Position] at [Company].
+
+This decision has not been taken lightly, however I have decided to pursue other opportunities that I believe will benefit me and my career.
+
+I am deeply grateful for the opportunities and experiences that I have gained while working here. I have learned so much from my colleagues and I am so thankful for the support and guidance I have received throughout my time here.
+
+I am willing to make the transition as smooth as possible, and I am available to help train my replacement if necessary.
+
+I wish [Company] all the best in the future.
+
+Sincerely,
+
+[Your Name]

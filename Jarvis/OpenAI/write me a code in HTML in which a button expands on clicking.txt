@@ -1,0 +1,18 @@
+OpenAI response for Prompt: using AI write me a code in HTML in which a button expands on clicking 
+ **************** 
+
+
+
+<html>
+  <head>
+    <title>Button Expander</title>
+    <script type="text/javascript">
+      function expandButton(){
+        document.getElementById("expandButton").style.width = "200px"; //expands the button on click
+      }
+    </script>
+  </head>
+  <body>
+    <input type="button" id="expandButton" value="Expand Me!" onclick="expandButton()" />
+  </body>
+</html>

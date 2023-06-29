@@ -1,0 +1,4 @@
+youtube https://www.youtube.com
+wikipedia https://www.wikipedia.org
+google https://www.google.com
+gmail https://mail.google.com/mail/u/0/
